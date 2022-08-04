@@ -1,0 +1,3 @@
+ Sum:   122.199997    
+ Average:   15.2749996    
+ Standard Deviation:   6.27310705    
